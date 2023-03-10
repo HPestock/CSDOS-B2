@@ -3,9 +3,9 @@ CSDOS Branch 2 (p5.js version, old version has not been supported since b0.1)
 
 CSDOS is an operating system written in javascript with the p5.js graphics library. 
 
-The most recent public build of CSDOS can be run at https://hpestock.github.io/CSDOS-B2/index.html
-The most recent unstable build of CSDOS can be run at https://editor.p5js.org/hpestock/sketches/3j858CE5Y
-The most recent stable build of CSDOS can be found at https://github.com/HPestock/CSDOS-B2/
+The most recent public build of CSDOS can be run at https://hpestock.github.io/CSDOS-B2/index.html <br>
+The most recent unstable build of CSDOS can be run at https://editor.p5js.org/hpestock/sketches/3j858CE5Y <br>
+The most recent stable build of CSDOS can be found at https://github.com/HPestock/CSDOS-B2/ <br>
 
 # Executable Files
 
